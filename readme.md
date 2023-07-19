@@ -1,5 +1,6 @@
 ## **PatikaStore**
-![Uploading image.png…]()
+
+![patikaStore](https://github.com/emirakdemir/patikaStore/assets/77544885/bd7d2fd3-7814-4dba-bfa1-379d3b7596cc)
 
 
 
